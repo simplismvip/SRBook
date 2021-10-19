@@ -30,7 +30,7 @@ target 'SReader' do
   #  pod 'mob_smssdk'
   #  pod 'Moya'
 
-  pod 'JMEpubReader', :path=>'../JMEpubReader'
+  pod 'JMEpubReader', :path=>'../Ebook'
   pod 'ZJMKit', :path=>'../ZJMKit'
   pod 'ZJMAlertView', :path => '../ZJMAlertView'
 end
