@@ -1,0 +1,15 @@
+only_rules:
+  - force_unwrapping
+  - force_cast
+  # 可以通过执行如下指令来查找所有可用的规则:
+  # swiftlint rules
+included: # 执行 linting 时包含的路径。如果出现这个 `--path` 会被忽略。
+# # - Source
+  - ./SReader/Class
+excluded: # 执行 linting 时忽略的路径。 优先级比 `included` 更高。
+  - Pods
+# 可配置的规则可以通过这个配置文件来自定义
+# 二进制规则可以设置他们的严格程度
+force_unwrapping: error
+force_cast: error # 隐式
+reporter: "xcode" # 报告类型 (xcode, json, csv, checkstyle, codeclimate, junit, html, emoji, sonarqube, markdown, github-actions-logging)

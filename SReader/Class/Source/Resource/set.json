@@ -1,0 +1,27 @@
+[
+    {
+        "compStyle":"set",
+        "sets":[
+            {
+                "title": "我的评论",
+                "event": "kBookEventGoComment",
+            },
+            {
+                "title": "我的打赏",
+                "event": "kBookEventGoReward",
+            },
+            {
+                "title": "浏览历史",
+                "event": "kBookEventGoMyRead",
+            },
+            {
+                "title": "推荐好友",
+                "event": "kBookEventRecomment",
+            },
+            {
+                "title": "好评支持一下",
+                "event": "kBookEventGoAppstore",
+            }
+        ]
+    }
+]

@@ -1,0 +1,126 @@
+[
+    {
+        "compStyle":"charpters",
+        "header": {
+            "event": "kBookEventSortCharpters",
+            "type": "BookCharpter",
+            "lTitle": "已完结 共1170章",
+            "rTitle": "排序↑"
+        },
+        "charpters": [
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },{
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },{
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },{
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },
+            {
+                "label": "760",
+                "item":"760"
+            },{
+                "label": "760",
+                "item":"760"
+            }
+            
+        ]
+    }
+]

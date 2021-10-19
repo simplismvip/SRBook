@@ -1,0 +1,27 @@
+[
+	{
+		"money": 5,
+		"shudou": 50,
+        "extShudou": "赠送0书豆"
+	}, {
+		"money": 10,
+		"shudou": 110,
+        "extShudou": "赠送10书豆"
+	}, {
+		"money": 20,
+		"shudou": 240,
+        "extShudou": "赠送40书豆"
+	}, {
+		"money": 30,
+		"shudou": 360,
+        "extShudou": "赠送60书豆"
+	}, {
+		"money": 50,
+		"shudou": 580,
+        "extShudou": "赠送80书豆"
+	}, {
+		"money": 100,
+		"shudou": 1400,
+        "extShudou": "赠送400书豆"
+	}
+]

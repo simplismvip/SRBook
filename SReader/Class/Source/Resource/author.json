@@ -1,0 +1,92 @@
+[
+    {
+        "compStyle":"text",
+        "text": {
+            "content": "论放假的广州人都做了什么吃喝玩乐躺🐟啊端午假结束了,我邻座的运营主管就是福建人。",
+        }
+    },{
+        "compStyle":"row",
+        "header": {
+            "lTitle":"猜你喜欢",
+        },
+        "items":[
+            {
+                "id": "987",
+                "name": "谋败",
+                "urlname": "【何森万卷出版公司】《谋败》.epub",
+                "author": "何森",
+                "cover": "谋败-cover.jpg",
+                "size": "241121",
+                "type": "",
+                "desc": "谋败",
+                "NAVICAT_ROWID": "987"
+            },
+            {
+                "id": "988",
+                "name": "出轨的七天：德国女性情感小说",
+                "urlname": "出轨的七天：德国女性情感小说.epub",
+                "author": "科蒂",
+                "cover": "出轨的七天：德国女性情感小说-cover.jpg",
+                "size": "221278",
+                "type": "婚恋家庭",
+                "desc": "出轨的七天：德国女性情感小说",
+                "NAVICAT_ROWID": "988"
+            },
+            {
+                "id": "989",
+                "name": "藏獒精神",
+                "urlname": "藏獒精神.epub",
+                "author": "程书博",
+                "cover": "藏獒精神-cover.jpg",
+                "size": "221973",
+                "type": "",
+                "desc": "藏獒精神",
+                "NAVICAT_ROWID": "989"
+            },
+            {
+                "id": "990",
+                "name": "The Heart of the Matter",
+                "urlname": "The Heart of the Matter - Graham Greene.epub",
+                "author": "opf:file-as=\"Greene, Graham\" opf:role=\"aut\">Graham Greene",
+                "cover": "null",
+                "size": "313264",
+                "type": "",
+                "desc": "null",
+                "NAVICAT_ROWID": "990"
+            },
+            {
+                "id": "991",
+                "name": "情商影响力",
+                "urlname": "情商影响力.epub",
+                "author": "吴维库",
+                "cover": "情商影响力-cover.jpg",
+                "size": "165592",
+                "type": "",
+                "desc": "情商影响力",
+                "NAVICAT_ROWID": "991"
+            },
+            {
+                "id": "992",
+                "name": "五星饭店",
+                "urlname": "侣海岩 - 五星饭店.epub",
+                "author": "侣海岩",
+                "cover": "五星饭店-cover.jpg",
+                "size": "550649",
+                "type": "",
+                "desc": "",
+                "NAVICAT_ROWID": "992"
+            },
+            {
+                "id": "993",
+                "name": "暧昧是寂寞撒的谎",
+                "urlname": "暧昧是寂寞撒的谎.epub",
+                "author": "晓丹叮咚",
+                "cover": "暧昧是寂寞撒的谎-cover.jpg",
+                "size": "115347",
+                "type": "",
+                "desc": "暧昧是寂寞撒的谎",
+                "NAVICAT_ROWID": "993"
+            }
+        ]
+    }
+]

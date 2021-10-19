@@ -1,0 +1,37 @@
+[
+    {
+        "title":"全部分类",
+        "booktype":"all",
+        "items":[]
+    },
+    {
+        "title":"人气榜",
+        "booktype":"renqi",
+        "items":[]
+    },
+    {
+        "title":"好评榜",
+        "booktype":"haoping",
+        "items":[]
+    },
+    {
+        "title":"新书榜",
+        "booktype":"xinshu",
+        "items":[]
+    },
+    {
+        "title":"热搜榜",
+        "booktype":"resou",
+        "items":[]
+    },
+    {
+        "title":"飙升榜",
+        "booktype":"biaosheng",
+        "items":[]
+    },
+    {
+        "title":"完结榜",
+        "booktype":"wanjie",
+        "items":[]
+    }
+]

@@ -1,0 +1,123 @@
+[
+	{
+		"compStyle":"columuVert",
+        "header": {
+            "lTitle": "为你推荐-签到",
+        },
+		"items":[
+			{
+	            "name": "怨女",
+	            "urlname": "怨女-张爱玲.epub",
+	            "author": "张爱玲",
+	            "cover": "怨女-cover.jpg",
+	            "size": "157210",
+	            "type": "现代文学",
+	            "desc": "怨女",
+	        },
+	        {
+	            "name": "爱情备忘录：倾城十年·比目思",
+	            "urlname": "爱情备忘录：倾城十年·比目思.epub",
+	            "author": "叶倾城",
+	            "cover": "爱情备忘录：倾城十年·比目思-cover.jpg",
+	            "size": "165556",
+	            "type": "现代文学",
+	            "desc": "爱情备忘录：倾城十年·比目思",
+	        },
+	        {
+	            "name": "恋风恋歌",
+	            "urlname": "恋风恋歌.epub",
+	            "author": "苏霖",
+	            "cover": "恋风恋歌-cover.jpg",
+	            "size": "204311",
+	            "type": "",
+	            "desc": "恋风恋歌",
+	        },
+            {
+                "name": "遍地大神",
+                "urlname": "遍地大神.epub",
+                "author": "COAY.COM",
+                "cover": "遍地大神-cover.jpg",
+                "size": "213886",
+                "type": "",
+                "desc": "遍地大神",
+            },
+            {
+                "id": "988",
+                "name": "出轨的七天：德国女性情感小说",
+                "urlname": "出轨的七天：德国女性情感小说.epub",
+                "author": "科蒂",
+                "cover": "出轨的七天：德国女性情感小说-cover.jpg",
+                "size": "221278",
+                "type": "婚恋家庭",
+                "desc": "出轨的七天：德国女性情感小说",
+                "NAVICAT_ROWID": "988"
+            },
+            {
+                "id": "989",
+                "name": "藏獒精神",
+                "urlname": "藏獒精神.epub",
+                "author": "程书博",
+                "cover": "藏獒精神-cover.jpg",
+                "size": "221973",
+                "type": "",
+                "desc": "藏獒精神",
+                "NAVICAT_ROWID": "989"
+            },
+            {
+                "id": "990",
+                "name": "The Heart of the Matter",
+                "urlname": "The Heart of the Matter - Graham Greene.epub",
+                "author": "Graham Greene",
+                "cover": "null",
+                "size": "313264",
+                "type": "",
+                "desc": "null",
+                "NAVICAT_ROWID": "990"
+            },
+            {
+                "id": "991",
+                "name": "情商影响力",
+                "urlname": "情商影响力.epub",
+                "author": "吴维库",
+                "cover": "情商影响力-cover.jpg",
+                "size": "165592",
+                "type": "",
+                "desc": "情商影响力",
+                "NAVICAT_ROWID": "991"
+            },
+            {
+                "id": "992",
+                "name": "五星饭店",
+                "urlname": "侣海岩 - 五星饭店.epub",
+                "author": "侣海岩",
+                "cover": "五星饭店-cover.jpg",
+                "size": "550649",
+                "type": "",
+                "desc": "",
+                "NAVICAT_ROWID": "992"
+            },
+            {
+                "id": "993",
+                "name": "暧昧是寂寞撒的谎",
+                "urlname": "暧昧是寂寞撒的谎.epub",
+                "author": "晓丹叮咚",
+                "cover": "暧昧是寂寞撒的谎-cover.jpg",
+                "size": "115347",
+                "type": "",
+                "desc": "暧昧是寂寞撒的谎",
+                "NAVICAT_ROWID": "993"
+            },
+            {
+                "id": "994",
+                "name": "聪明，就是这样培养出来的",
+                "urlname": "聪明，就是这样培养出来的.epub",
+                "author": "钱元",
+                "cover": "聪明，就是这样培养出来的-cover.jpg",
+                "size": "151715",
+                "type": "",
+                "desc": "聪明，就是这样培养出来的",
+                "NAVICAT_ROWID": "994"
+            }
+		]
+	}
+]

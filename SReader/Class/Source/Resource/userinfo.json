@@ -1,0 +1,38 @@
+[
+    {
+        "title": "头像",
+        "event": "kBookEventGoWifiBook",
+    },
+    {
+        "title": "浏览历史",
+        "event": "kBookEventGoMyRead",
+    },
+    {
+        "title": "关于我们",
+        "event": "kBookEventGoAboutUs",
+    },
+    {
+        "title": "WiFi传书",
+        "event": "kBookEventGoWifiBook",
+    },
+    {
+        "title": "浏览历史",
+        "event": "kBookEventGoMyRead",
+    },
+    {
+        "title": "关于我们",
+        "event": "kBookEventGoAboutUs",
+    },
+    {
+        "title": "WiFi传书",
+        "event": "kBookEventGoWifiBook",
+    },
+    {
+        "title": "浏览历史",
+        "event": "kBookEventGoMyRead",
+    },
+    {
+        "title": "关于我们",
+        "event": "kBookEventGoAboutUs",
+    }
+]

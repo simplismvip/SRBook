@@ -1,0 +1,86 @@
+[
+    {
+        "compStyle":"classifys",
+        "classifys": [
+            {
+                "title": "都市",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/15659470988713.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "生活/异能/重生/热血/人生",
+                "type":"1",
+                "event": null
+            }, {
+                "title": "仙侠",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/15653343891647.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "御剑飞行/修真",
+                "type":"2",
+                "event": null
+            }, {
+                "title": "历史",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/1564731776706.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "架空/唐宋元明清",
+                "type":"3",
+                "event": null
+            }, {
+                "title": "科幻",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/15641286183753.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "未来/世界/宇宙/无限",
+                "type":"4",
+                "event": null
+            }, {
+                "title": "奇幻",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/15635025551360.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "东方/想象力/领主",
+                "type":"5",
+                "event": null
+            }, {
+                "title": "其他",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/15629183638175.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "未分类",
+                "type":"6",
+                "event": null
+            }, {
+                "title": "玄幻",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/15622983676592.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "想象/无敌/丰富/热爱",
+                "type":"7",
+                "event": null
+            }, {
+                "title": "灵异",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/15619615479945.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "刺激/无敌/恐怖/吓人",
+                "type":"8",
+                "event": null
+            }, {
+                "title": "传记",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/15611025396320.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "名人/记录/生平/风华",
+                "type":"9",
+                "event": null
+            }, {
+                "title": "武侠",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/15605005139648.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "必读/金庸/热血/功夫",
+                "type":"10",
+                "event": null
+            }, {
+                "title": "编程",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/15598066507367.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "Python/C/C++/Swift",
+                "type":"11",
+                "event": null
+            }, {
+                "title": "文学",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/15596423702858.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "古典/现代/经典/必读",
+                "type":"12",
+                "event": null
+            }, {
+                "title": "养生",
+                "cover": "https://qcdn.zhangzhongyun.com/topic_covers/15592917411634.jpg?imageView2/0/w/750/q/75",
+                "subtitle": "中医/中药/养生/健康",
+                "type":"13",
+                "event": null
+            }
+        ]
+    }
+]

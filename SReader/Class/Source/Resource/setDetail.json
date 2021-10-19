@@ -1,0 +1,41 @@
+[
+    [
+        {
+            "title":"购买记录",
+            "actiontype":"restore",
+            "cellType":"SetDeatilCell"
+        },
+        {
+            "title":"书架已下载置顶",
+            "cellType":"SetDeatilSwitchCell",
+            "key":"set_shelf_zhiding"
+        }
+    ],
+    [
+        {
+            "title": "用户反馈",
+            "cellType":"SetDeatilCell",
+            "actiontype":"feedback"
+        },
+        {
+            "title":"清空缓存",
+            "cellType":"SetDeatilCell",
+            "actiontype":"clearAll"
+        },{
+            "title": "关于我们",
+            "cellType":"SetDeatilCell",
+            "actiontype":"aubotus"
+        },{
+            "title":"客服QQ群：799648397",
+            "actiontype":"gotoQQ",
+            "cellType":"SetDeatilCell"
+        }
+    ],
+    [
+        {
+            "title":"退出登陆",
+            "cellType":"SetDeatilLogOutCell",
+            "actiontype":"logout"
+        }
+    ]
+]

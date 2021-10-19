@@ -1,0 +1,92 @@
+[
+	{
+		"compStyle":"columuVert",
+		"items":[
+			{
+	            "name": "走出困局",
+                "bookid": "12345678",
+	            "urlname": "走出困局.epub",
+	            "author": "周德文",
+	            "cover": "走出困局-cover.jpg",
+	            "size": "87268",
+	            "type": "",
+	            "desc": "走出困局",
+	        },
+	        {
+	            "name": "大国衰落之鉴",
+                "bookid": "12345678",
+	            "urlname": "大国衰落之鉴.epub",
+	            "author": "刘景华",
+	            "cover": "大国衰落之鉴-cover.jpg",
+	            "size": "253149",
+	            "type": "历史军事",
+	            "desc": "大国衰落之鉴",
+	        },
+	        {
+	            "name": "规则",
+                "bookid": "12345678",
+	            "urlname": "规则.epub",
+	            "author": "天佑",
+	            "cover": "规则-cover.jpg",
+	            "size": "250573",
+	            "type": "",
+	            "desc": "规则",
+	        },
+	        {
+	            "name": "牛小米外企打拼记：2009职场白领必读",
+                "bookid": "12345678",
+	            "urlname": "牛小米外企打拼记：2009职场白领必读.epub",
+	            "author": "洪湖浪",
+	            "cover": "牛小米外企打拼记：2009职场白领必读-cover.jpg",
+	            "size": "153817",
+	            "type": "",
+	            "desc": "牛小米外企打拼记：2009职场白领必读",
+	        }
+		]
+	},
+	{
+		"compStyle":"row",
+		"items":[
+			{
+	            "name": "怨女",
+                "bookid": "12345678",
+	            "urlname": "怨女-张爱玲.epub",
+	            "author": "张爱玲",
+	            "cover": "怨女-cover.jpg",
+	            "size": "157210",
+	            "type": "现代文学",
+	            "desc": "怨女",
+	        },
+	        {
+	            "name": "爱情备忘录：倾城十年·比目思",
+                "bookid": "12345678",
+	            "urlname": "爱情备忘录：倾城十年·比目思.epub",
+	            "author": "叶倾城",
+	            "cover": "爱情备忘录：倾城十年·比目思-cover.jpg",
+	            "size": "165556",
+	            "type": "现代文学",
+	            "desc": "爱情备忘录：倾城十年·比目思",
+	        },
+	        {
+	            "name": "恋风恋歌",
+                "bookid": "12345678",
+	            "urlname": "恋风恋歌.epub",
+	            "author": "苏霖",
+	            "cover": "恋风恋歌-cover.jpg",
+	            "size": "204311",
+	            "type": "",
+	            "desc": "恋风恋歌",
+	        },
+            {
+                "name": "恋风恋歌",
+                "bookid": "12345678",
+                "urlname": "恋风恋歌.epub",
+                "author": "苏霖",
+                "cover": "恋风恋歌-cover.jpg",
+                "size": "204311",
+                "type": "",
+                "desc": "恋风恋歌",
+            }
+		]
+	}
+]

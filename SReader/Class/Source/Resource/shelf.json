@@ -1,0 +1,169 @@
+[
+    {
+        "compStyle":"ad",
+        "gad": {
+            "title": "有没有你感兴趣的书",
+            "subtitle": "更多",
+            "imageUrl": "icon_more",
+            "adUnitID":"ca-app-pub-5649482177498836/1892575484"
+        }
+    },{
+        "compStyle":"shelfrow",
+        "sheftitems":[
+            {
+                "bookid": "987",
+                "title": "谋败",
+                "urlname": "【何森万卷出版公司】《谋败》.epub",
+                "author": "何森",
+                "cover": "谋败-cover.jpg",
+                "size": "241121",
+                "type": "",
+                "desc": "谋败",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "988",
+                "title": "出轨的七天：德国女性情感小说",
+                "urlname": "出轨的七天：德国女性情感小说.epub",
+                "author": "科蒂",
+                "cover": "出轨的七天：德国女性情感小说-cover.jpg",
+                "size": "221278",
+                "type": "婚恋家庭",
+                "desc": "出轨的七天：德国女性情感小说",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "989",
+                "title": "藏獒精神",
+                "urlname": "藏獒精神.epub",
+                "author": "程书博",
+                "cover": "藏獒精神-cover.jpg",
+                "size": "221973",
+                "type": "",
+                "desc": "藏獒精神",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "990",
+                "title": "The Heart of the Matter",
+                "urlname": "The Heart of the Matter - Graham Greene.epub",
+                "author": "opf:file-as=\"Greene, Graham\" opf:role=\"aut\">Graham Greene",
+                "cover": "null",
+                "size": "313264",
+                "type": "",
+                "desc": "null",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "991",
+                "title": "情商影响力",
+                "urlname": "情商影响力.epub",
+                "author": "吴维库",
+                "cover": "情商影响力-cover.jpg",
+                "size": "165592",
+                "type": "",
+                "desc": "情商影响力",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "992",
+                "title": "五星饭店",
+                "urlname": "侣海岩 - 五星饭店.epub",
+                "author": "侣海岩",
+                "cover": "五星饭店-cover.jpg",
+                "size": "550649",
+                "type": "",
+                "desc": "",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "993",
+                "title": "暧昧是寂寞撒的谎",
+                "urlname": "暧昧是寂寞撒的谎.epub",
+                "author": "晓丹叮咚",
+                "cover": "暧昧是寂寞撒的谎-cover.jpg",
+                "size": "115347",
+                "type": "",
+                "desc": "暧昧是寂寞撒的谎",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "994",
+                "title": "聪明，就是这样培养出来的",
+                "urlname": "聪明，就是这样培养出来的.epub",
+                "author": "钱元",
+                "cover": "聪明，就是这样培养出来的-cover.jpg",
+                "size": "151715",
+                "type": "",
+                "desc": "聪明，就是这样培养出来的",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "995",
+                "title": "三幕悲剧",
+                "urlname": "阿加莎.克里斯蒂-三幕悲剧.epub",
+                "author": "阿加莎.克里斯蒂",
+                "cover": "三幕悲剧-cover.jpg",
+                "size": "200771",
+                "type": "",
+                "desc": "三幕悲剧",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "996",
+                "title": "戒爱",
+                "urlname": "戒爱.epub",
+                "author": "微络",
+                "cover": "戒爱-cover.jpg",
+                "size": "161277",
+                "type": "",
+                "desc": "戒爱",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "997",
+                "title": "忠义的资本",
+                "urlname": "忠义的资本.epub",
+                "author": "曹培红",
+                "cover": "忠义的资本-cover.jpg",
+                "size": "104052",
+                "type": "",
+                "desc": "忠义的资本",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "998",
+                "title": "水底的火焰：知识分子萧乾：1949-1999",
+                "urlname": "水底的火焰：知识分子萧乾：1949-1999.epub",
+                "author": "丁亚平",
+                "cover": "水底的火焰：知识分子萧乾：1949-1999-cover.jpg",
+                "size": "114135",
+                "type": "历史军事",
+                "desc": "水底的火焰：知识分子萧乾：1949-1999",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "999",
+                "title": "老尸三部曲",
+                "urlname": "老尸三部曲.epub",
+                "author": "鲁班尺",
+                "cover": "老尸三部曲-cover.jpg",
+                "size": "210307",
+                "type": "",
+                "desc": "老尸三部曲",
+                "dateT": "1624504001"
+            },
+            {
+                "bookid": "1000",
+                "title": "风流花少",
+                "urlname": "男尊阳功 - 风流花少.epub",
+                "author": "男尊阳功",
+                "cover": "风流花少-cover.jpg",
+                "size": "1717118",
+                "type": "",
+                "desc": "风流花少",
+                "dateT": "1624504001"
+            }
+        ]
+    }
+]

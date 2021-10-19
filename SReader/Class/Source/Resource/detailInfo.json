@@ -1,0 +1,169 @@
+[
+	{
+		"compStyle":"charpter",
+		"charpter":{
+            "title": "已完结",
+            "bookid": "9682089",
+            "tCharpter": "760",
+            "cCharpter":"760"
+        }
+	},
+    {
+        "compStyle":"ad",
+        "gad": {
+            "title": "有没有你感兴趣的书",
+            "subtitle": "更多",
+            "imageUrl": "icon_more",
+            "adUnitID":"ca-app-pub-5649482177498836/1892575484"
+        }
+    },
+    {
+        "compStyle":"comment",
+        "header": {
+            "lTitle": "书籍评论",
+            "rTitle": "写评论",
+            "event": "kBookEventWriteComment"
+        },
+        "comment": {
+            "bookid": "9682089",
+            "content": "有人和我一样嘛，每天都要看好几篇更新没有😂😂😂期待下篇有人和我一样嘛，每天都要看好几篇更新没有😂😂😂期待下篇有人和我一样嘛，每天都要看好几篇更新没有😂😂😂期待下篇",
+            "like_count":"13129",
+            "rate":3,
+            "created_at": "2010202002",
+            "user": {
+                "user_id":"18245393563",
+                "header_url":"https://cdn.wtzw.com/bookimg/free/images/upload/system_avatar/102406/159341148643978883.png",
+                "nickname":"麋鹿迷了路"
+            }
+        }
+    },
+    {
+        "compStyle":"comment",
+        "header": {
+            "lTitle": "书籍评论",
+            "rTitle": "写评论",
+            "rIcon": "comment_edit",
+            "event": "kBookEventWriteComment"
+        },
+        "comment": {
+            "bookid": "9682089",
+            "content": "有人和我一样嘛，每",
+            "like_count":"13129",
+            "rate":3,
+            "created_at": "2010202002",
+            "user": {
+                "user_id":"18245393563",
+                "header_url":"https://cdn.wtzw.com/bookimg/free/images/upload/system_avatar/102406/159341148643978883.png",
+                "nickname":"麋鹿迷了路"
+            }
+        }
+    },
+    {
+        "compStyle":"reward",
+        "reward": {
+            "pay_count": "100",
+            "created_at": "2010202002",
+            "reward_type": "icon_more",
+            "user": {
+                "user_id":"18245393563",
+                "header_url":"18245393563",
+                "nickname":"薇儿阿炎终究是意难平",
+                "book_dou":"1000",
+            }
+        }
+    },
+	{
+		"compStyle":"columuVert",
+        "header": {
+            "lTitle": "作者其他书籍",
+        },
+		"items":[
+			{
+	            "title": "怨女",
+	            "urlname": "怨女-张爱玲.epub",
+	            "author": "张爱玲",
+	            "cover": "怨女-cover.jpg",
+	            "size": "157210",
+	            "type": "现代文学",
+	            "desc": "怨女",
+	        },
+	        {
+	            "title": "爱情备忘录：倾城十年·比目思",
+	            "urlname": "爱情备忘录：倾城十年·比目思.epub",
+	            "author": "叶倾城",
+	            "cover": "爱情备忘录：倾城十年·比目思-cover.jpg",
+	            "size": "165556",
+	            "type": "现代文学",
+	            "desc": "爱情备忘录：倾城十年·比目思",
+	        },
+	        {
+	            "title": "恋风恋歌",
+	            "urlname": "恋风恋歌.epub",
+	            "author": "苏霖",
+	            "cover": "恋风恋歌-cover.jpg",
+	            "size": "204311",
+	            "type": "",
+	            "desc": "恋风恋歌",
+	        },
+            {
+                "title": "遍地大神",
+                "urlname": "遍地大神.epub",
+                "author": "COAY.COM",
+                "cover": "遍地大神-cover.jpg",
+                "size": "213886",
+                "type": "",
+                "desc": "遍地大神",
+            }
+		]
+	},
+	{
+		"compStyle":"row",
+        "header": {
+            "lTitle": "同类型书籍",
+        },
+		"items":[
+			{
+	            "title": "邪皇的调皮媚妃",
+	            "urlname": "邪皇的调皮媚妃.epub",
+	            "author": "",
+	            "cover": "邪皇的调皮媚妃-cover.jpg",
+	            "size": "369894",
+	            "type": "",
+	            "desc": "邪皇的调皮媚妃",
+	        },
+	        {
+	            "title": "我要的幸福：孙燕姿填词人的音乐爱情记事",
+	            "urlname": "我要的幸福：孙燕姿填词人的音乐爱情记事.epub",
+	            "author": "严云农",
+	            "cover": "我要的幸福：孙燕姿填词人的音乐爱情记事-cover.jpg",
+	            "size": "153590",
+	            "type": "",
+	            "desc": "我要的幸福：孙燕姿填词人的音乐爱情记事",
+	        },
+	        {
+	            "title": "帝宠1",
+	            "urlname": "帝宠1.epub",
+	            "author": "晚歌清雅",
+	            "cover": "帝宠1-cover.jpg",
+	            "size": "201920",
+	            "type": "婚恋家庭",
+	            "desc": "帝宠1",
+	        },
+	        {
+	            "title": "从此不再口就紧张",
+	            "urlname": "从此不再口就紧张.epub",
+	            "author": "哈里森•莫纳斯 拉里娜•凯丝",
+	            "cover": "从此不再口就紧张-cover.jpg",
+	            "size": "131188",
+	            "type": "",
+	            "desc": "从此不再口就紧张",
+	        }
+		]
+	},
+	{
+		"compStyle":"more",
+        "header": {
+            "lTitle": "更多图书信息"
+        }
+	}
+]
