@@ -20,7 +20,7 @@ target 'SReader' do
   pod 'TextAttributes'
   pod 'SwiftyStoreKit'
   pod 'KeychainAccess'
-  
+
   pod 'SwiftyJSON', '~> 5.0.0'
   pod 'ReachabilitySwift'
   pod 'FMDB'
@@ -29,8 +29,8 @@ target 'SReader' do
   #  pod 'Charts'
   #  pod 'mob_smssdk'
   #  pod 'Moya'
-  
-  pod 'JMEpubReader', :path=>'~/DeskTop/EPUB/JMEpubReader'
+
+  pod 'JMEpubReader', :path=>'../JMEpubReader'
   pod 'ZJMKit', :path=>'../ZJMKit'
   pod 'ZJMAlertView', :path => '../ZJMAlertView'
 end

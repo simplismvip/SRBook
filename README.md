@@ -1,25 +1,19 @@
 # SRBook
 
 #### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
-Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
-无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
+使用Swift完成的电子书项目，已经完成了功能，因App Store上架图书类需要提供出版资质放弃上架。把代码开源出来，有需要的同学可以参考下。
 
 #### 软件架构
 软件架构说明
 
-
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
-
-#### 使用说明
-
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  git clone git@github.com:simplismvip/SRBook.git 下载主项目
+2.  git clone git@github.com:simplismvip/ZJMKit.git 下载工具组件
+3.  git clone git@github.com:simplismvip/Ebook.git 下载电子书解析组件
+4.  git clone git@github.com:simplismvip/ZJMAlertView.git 下载弹窗组件
+5.  将下载好的组件和主项目放到同一个文件夹下面
+6.  执行pod install 安装所需的第三方库和本地组件
 
 #### 参与贡献
 
@@ -29,11 +23,11 @@ Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN�
 4.  新建 Pull Request
 
 
-#### 特技
+#### 说明
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+1.  目前完成EPUB和TXT格式解析。支持大部分电子书类app已有的功能。
+2.  本来计划在目前的基础上再开出一个页面上架一些PDF图书，阅读器也会添加PDF阅读支持。
+3.  面前完成文字转语音，使用苹果提供的框架，但是因为着急上架这个功能没完成把这个屏蔽了。
+4.  目前完成Wi-Fi传书功能，让iOS设备成为服务器支持上传图书到app，代码已经添加，功能入口没有添加。
+5.  服务端使用是我使用Fastapi开发，主要接口都是可用的。但是封面和图书资源的服务器马上到期了，估计快不能用了。
+6.  
