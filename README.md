@@ -16,8 +16,12 @@
 2.  git clone git@github.com:simplismvip/ZJMKit.git 下载工具组件
 3.  git clone git@github.com:simplismvip/Ebook.git 下载电子书解析组件
 4.  git clone git@github.com:simplismvip/ZJMAlertView.git 下载弹窗组件
-5.  将下载好的组件和主项目放到同一个文件夹下面
+5.  将下载好的组件和主项目放到同一个文件夹下面，名字要和podfile中对应。**(具体看目录结构截图)**
 6.  执行pod install 安装所需的第三方库和本地组件
+
+#### 目录结构
+
+![001](./001.png)
 
 #### 参与贡献
 
