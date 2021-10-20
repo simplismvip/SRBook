@@ -98,7 +98,7 @@ extension SRBookGoogleAd: GADBannerViewDelegate {
 extension SRBookGoogleAd: SRBookContent {
     func refresh<T: SRModelProtocol>(model: T) {
         if banner.adUnitID == nil, let admodel = model as? SRGoogleAd {
-            let adunit = admodel.adUnitID ?? "ca-app-pub-5649482177498836/1892575484"
+            let adunit = admodel.adUnitID ?? "ca-app-pub-gad"
             configGoogle(adunit)
         }
     }

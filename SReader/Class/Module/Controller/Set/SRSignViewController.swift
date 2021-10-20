@@ -56,7 +56,7 @@ class SRSignViewController: SRBookBaseController, GADFullScreenContentDelegate {
     private func loadAd(date: String) {
         JMAlertManager.jmShowAnimation(nil)
         let request = GADRequest()
-        GADRewardedAd.load(withAdUnitID: "ca-app-pub-3940256099942544/1712485313", request: request) { (gad, error) in
+        GADRewardedAd.load(withAdUnitID: "ca-app-pub-gad", request: request) { (gad, error) in
             JMAlertManager.jmHide(nil)
             if let gad = gad {
                 self.rewardedAd = gad

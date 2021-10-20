@@ -67,7 +67,7 @@ extension SRSQLTool {
             return [SRViewModel(compStyle: .shelfrow, sheftitems: query("MyShelf"))]
         } else {
             let imageUrl = "https://qcdn.zhangzhongyun.com/topic_covers/15653343891647.jpg?imageView2/0/w/750/q/75"
-            let adUnitID = "ca-app-pub-5649482177498836/1892575484"
+            let adUnitID = "ca-app-pub-gad"
             let vmodelAd = SRViewModel(compStyle: .ad, gad: SRGoogleAd(title: "最好的共享画板", adUnitID: adUnitID, imageUrl: imageUrl))
             let vmodelShelf = SRViewModel(compStyle: .shelfrow, sheftitems: query("MyShelf"))
             return [vmodelAd, vmodelShelf]

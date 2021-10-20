@@ -39,7 +39,7 @@ class SRComp_ALERT: SRBaseView, JMAlertCompProtocol {
                 height += 65
                 let adView = GADBannerView(adSize: kGADAdSizeBanner)
                 adView.translatesAutoresizingMaskIntoConstraints = false
-                adView.adUnitID = "ca-app-pub-5649482177498836/1892575484"
+                adView.adUnitID = "ca-app-pub-gad"
                 adView.rootViewController = rootVc
                 // request.testDevices = @[@"b9aed9e5dbcfbef59263a79520f18042",kGADSimulatorID];
                 adView.load(GADRequest())

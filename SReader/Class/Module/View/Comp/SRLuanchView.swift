@@ -22,7 +22,7 @@ class SRLuanchView: JMBaseView {
         let adView = GADBannerView(adSize: kGADAdSizeBanner)
         adView.translatesAutoresizingMaskIntoConstraints = false
         adView.delegate = self
-        adView.adUnitID = "ca-app-pub-5649482177498836/1892575484"
+        adView.adUnitID = "ca-app-pub-gad"
         return adView
     }()
     

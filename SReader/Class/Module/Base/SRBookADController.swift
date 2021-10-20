@@ -24,7 +24,7 @@ class SRBookADController: UIViewController, GADBannerViewDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         view.backgroundColor = .white
-        banner.adUnitID = "ca-app-pub-5649482177498836/1892575484"
+        banner.adUnitID = "ca-app-pub-gad"
         banner.rootViewController = self
         banner.load(GADRequest())
         banner.delegate = self

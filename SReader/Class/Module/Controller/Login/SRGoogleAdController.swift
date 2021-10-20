@@ -18,7 +18,7 @@ class SRGoogleAdController: UIViewController {
 
     private func loadAd() {
         let request = GADRequest()
-        GADRewardedAd.load(withAdUnitID: "ca-app-pub-3940256099942544/1712485313", request: request) { (gad, error) in
+        GADRewardedAd.load(withAdUnitID: "ca-app-pub-gad", request: request) { (gad, error) in
             if let gad = gad {
                 self.rewardedAd = gad
                 self.rewardedAd?.fullScreenContentDelegate = self

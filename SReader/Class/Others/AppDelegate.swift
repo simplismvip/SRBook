@@ -20,7 +20,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         self.window?.makeKeyAndVisible()
         
         GADMobileAds.sharedInstance().start(completionHandler: nil)
-//        GADMobileAds.sharedInstance().requestConfiguration.testDeviceIdentifiers = [kGADSimulatorID,"99bf284c9dbbf7ed4c9c5dbfd935cd88","ae969229cdb2b4afe619e404aafbdde1"]
+        GADMobileAds.sharedInstance().requestConfiguration.testDeviceIdentifiers = [kGADSimulatorID,"99bf284c9dbbf7ed4c9c5dbfd935cd88","ae969229cdb2b4afe619e404aafbdde1"]
         
         if let path = SRTools.epubInfoCover() {
             JMFileTools.jmCreateFolder(path)
