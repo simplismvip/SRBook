@@ -82,6 +82,7 @@ class SRDetailBottomView: SRBaseView, SRBookDownload {
                         if status {
                             self?.addShelf.setTitle("移除书架", for: .normal)
                             self?.startRead.setTitle("开始阅读", for: .normal)
+                            model.reNameEpub()
                             self?.jmRouterEvent(eventName: kBookEventDetailOpenBook, info: nil)
                         } else {
                             self?.startRead.setTitle("下载失败", for: .normal)

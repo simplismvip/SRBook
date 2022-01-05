@@ -29,19 +29,21 @@ class SRBook: HandyJSON, SRModelProtocol {
 extension SRBook {
     /// 完整epub文件路径
     func bookurl() -> String? {
-        if let url = urlname {
-            if (epubfrom == "XSMI") {
-                return SRTools.hostName("xsmi-epubs/" + url)
-            } else if (epubfrom == "TSHU") {
-                return SRTools.hostName("ts-epubs/" + url)
-            } else if (epubfrom == "FDBOOK") {
-                return SRTools.hostName("epubs/" + url)
-            } else {
-                return nil
-            }
-        } else {
-            return nil
-        }
+        // 因为服务器到期，这里写死返回固定资源
+        return "http://119.23.41.43/files/epub/books/tixnxiadaoz.epub"
+//        if let url = urlname {
+//            if (epubfrom == "XSMI") {
+//                return SRTools.hostName("xsmi-epubs/" + url)
+//            } else if (epubfrom == "TSHU") {
+//                return SRTools.hostName("ts-epubs/" + url)
+//            } else if (epubfrom == "FDBOOK") {
+//                return SRTools.hostName("epubs/" + url)
+//            } else {
+//                return nil
+//            }
+//        } else {
+//            return nil
+//        }
     }
     
     /// 完整封面路径
@@ -80,5 +82,20 @@ extension SRBook {
     /// ⚠️：SRBook的bookid是拼接后的，和JMEpubReader读取的bookid不一致。
     func bookFileName() -> String? {
         return urlname?.replacingOccurrences(of: ".epub", with: "")
+    }
+}
+
+extension SRBook {
+    /// 重命名文件，因为下载后的文件都是一个，这里把下载后的文件改下名字
+    func reNameEpub() {
+        if let url = urlname, let epubPath = SRTools.epubInfoEpub() {
+            let oldname = epubPath + "/" + "tixnxiadaoz.epub"
+            let newname = epubPath + "/" + url
+            do {
+                try FileManager.default.moveItem(atPath: oldname, toPath: newname)
+            } catch {
+                print("重命名错误！")
+            }
+        }
     }
 }
