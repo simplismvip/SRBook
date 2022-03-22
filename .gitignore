@@ -20,6 +20,8 @@ StrawberryReader.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
 *.perspectivev3
 !default.perspectivev3
 xcuserdata/
+.DS_Store
+ */.DS_Store
 
 ## Other
 *.moved-aside
